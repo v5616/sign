@@ -1,0 +1,1 @@
+export const API_URL = process.env.NEXTJS_PUBLIC_URL || "https://backend23.herokuapp.com";
